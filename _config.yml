@@ -28,6 +28,7 @@ tagline: The buddhist Art of Gandhara
 "description" A collection exploring the collection of buddhist artefacts from the region of Gandhara from the Museum Forum der Volker, a mission museum in Werl, Germany.
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Melissa Rogalski
+"theme:" minima
 
 ##########
 # COLLECTION SETTINGS
